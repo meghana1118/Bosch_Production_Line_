@@ -9,4 +9,7 @@ Source: https://www.kaggle.com/c/bosch-production-line-performance
 
 
 Number of features selected for test and train differs when using BPL Categorical program.
-Data data is yet to be explored. Let us use only numerical data for the project, following the popular culture(i.e common from all solved examples on GIt,kaggle etc)
+Date data is yet to be explored. Let us use only numerical data for the project, following the popular culture(i.e common from all solved examples on GIt,kaggle etc).
+
+Expected project flow:
+                    
